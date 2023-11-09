@@ -23,7 +23,7 @@ Ensuring timely and reliable access to and use the information by authorized use
 
 2. Achieving CIA - Best Practice
 
-(Six principle need to remember)
+(Six principles need remember)
 
 - Separation of duties
 - Mandatory vacation
@@ -34,4 +34,20 @@ Ensuring timely and reliable access to and use the information by authorized use
 
 3. Availability measuring metric
 
+RTO: recovery time objective
 
+RPO: recovery point objective
+
+MTD: maximum tolerable downtime
+
+MTBF: mean time between failure
+
+SLA: sevice level agreement
+
+4. IAAAA
+
+- Identification: Unique user identification
+- Authentication: validation the user identification 
+- Authorization: verify privileges and permission for authenticated user
+- Accountability: just only authorized user access and use the system accordingly
+- Auditing: tools, processes, activity aid for making sure the execution of compliance
