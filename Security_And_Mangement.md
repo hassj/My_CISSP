@@ -86,6 +86,7 @@ threat, exploit, risk, vulnerability, asset, threat agent
 > 1. Preventive (EX ISO 27001)
 > 
 > security policy, security cameras, security awareness training, job rotation, encryption, data classification.
+>
 > 2. Deterrent (EX ISO 27000)
 > 3. Detective
 > 4. Corrective
