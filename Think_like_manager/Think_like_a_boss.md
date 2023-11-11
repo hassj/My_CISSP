@@ -72,3 +72,5 @@ just have some knowledge about technical and deep dive the study guide CISSP all
 ### When to use this book
 ![Work safety](https://github.com/hassj/My_CISSP/blob/main/Think_like_manager/Image/Book.JPG)
 
+# Resource
+https://www.youtube.com/watch?v=dq5eodSz_0k&t=1s
