@@ -56,3 +56,19 @@
 
 ### Work Safety
  ![Work safety](https://github.com/hassj/My_CISSP/blob/main/Think_like_manager/Image/Work_safety.JPG)
+### Value and Cost
+Refer to the GDPR (general data protection regulation)
+### Process, Role and Responsibilities
+ ![Work safety](https://github.com/hassj/My_CISSP/blob/main/Think_like_manager/Image/Process_Role_Responsibilities.JPG)
+ ![Work safety](https://github.com/hassj/My_CISSP/blob/main/Think_like_manager/Image/Process_Role_Responsibilities_1.JPG)
+
+## Technical Knowledge
+Do i need yto be a technical. You don't need to be an any technical or professional for CISSP exam.
+just have some knowledge about technical and deep dive the study guide CISSP all in one official...
+
+## Book
+### Why to use this book
+### How to use this book
+### When to use this book
+![Work safety](https://github.com/hassj/My_CISSP/blob/main/Think_like_manager/Image/Book.JPG)
+
