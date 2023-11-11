@@ -91,7 +91,3 @@ threat, exploit, risk, vulnerability, asset, threat agent
 > 3. Detective
 > 4. Corrective
 > 5. Recovery 
-
-11. Images
-
-![test image](D:\Documents\Learning\CISSP\Image\Domain1 "domain 1")
