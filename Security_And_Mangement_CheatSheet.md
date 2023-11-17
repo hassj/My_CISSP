@@ -1,4 +1,4 @@
-# SECURITY AND RISK MANAGEMENT
+# SECURITY AND RISK MANAGEMENT CHEAT SHEET
 ## CIA triad
 
 1. What is CIA TRIAD?
@@ -91,3 +91,5 @@ threat, exploit, risk, vulnerability, asset, threat agent
 > 3. Detective
 > 4. Corrective
 > 5. Recovery 
+
+to be continue...
