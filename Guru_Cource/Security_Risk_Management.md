@@ -48,7 +48,7 @@ that is the process of holding people responsible for their action
 Using mechanism digital signature Prevent individual from disputing their action.
 
 ## Governance and Compliance
-Aligning security function, Plan types, Organization process, Due care and diligence, Roles and Responsibilities, Frameworks, Compliance
+Aligning security function, Plan types, Organization process, Due care and due  diligence, Roles and Responsibilities, Frameworks, Compliance
 ### Different between Governance and compliance
 - Governance deal with developing an approach or method for implementing the security in your ORG through policies, procedure.
 - Compliance focus on the meeting a requirement set by another identity.
@@ -57,7 +57,7 @@ we have 4 concepts:
 
 - Objective: small achievement toward the ORG goal
 - Goal: Accomplishment that ORG seeks to achieve by a set time 
-- Mission: consist of value, cultures, and vission
+- Mission: consist of value, cultures, and vision
 - Strategy: the way define how the ORG accomplish mission, goal and exist
 
 ### Plan types
@@ -71,11 +71,11 @@ Time: daily, month, quarterly
 
 Annual goals that ORG seeks to reach
 
-Time: annualy
+Time: annually
 
 - Strategic plan
 
-Long term goals, mnay years plan that align with ORG's vision for the future. that is the high level plan that dictate the vision of Plan.
+Long term goals, many years plan that align with ORG's vision for the future. that is the high level plan that dictate the vision of Plan.
 
 Time: Multi-years
 
@@ -94,17 +94,108 @@ Group manage the security governance
 
 ### Due Care and Due diligence
 - Due care is the process of taking the sufficient/appropriate action and preventative measurement that avoid the security incident
-- Due diligence is process of investigating the common vuln and security riks, for having the responsibility of avoid that risk or vuln will be exploited.
+- Due diligence is process of investigating the common vuln and security ricks, for having the responsibility of avoid that risk or vuln will be exploited.
 
 ### Frameworks
-1. ISO
+1. ISO series 27000
 > 27000 
-> overview security management information system and protect the PII, intellectual property 
+> overview information security management system and protect the PII, intellectual property 
 >
 > 27001
-> that is detail of the information security management system, and be certified is 27001 compliant 
+> that is requirement of the information security management system, and be certified is 27001 compliant 
 > 
+> 27002
+> that is framework of practice for information security controls
 >
+> 27003
+> that is detail of information security management system of 27000 standard
+>
+> 27014
+> focused on the development of security governance, such as the security policies, procedures, guidelines.
+>
+> 27031
+> Describes concepts or principles for business continuity 
+
+1. COBIT (control object for information and related technology)
+
+Developing by ISACA, consist of 5 main components:
+
+- Meeting the stakeholder needs
+- Covering the enterprise end to end to make sure we will not missing any requirement
+- Apply the single framework 
+- Enable the holistic approach
+- Separating the security from the management
+
+3. Committee of sponsoring organization (COSO)
+- Treadway commission: 1985 developed to investigate financial fraud. that is closely to the SOX bellow.
+- Sarban OXley (SOX): 2002 act that was the result of corporate fraud
+- Framwork:  provided by Treadway  commission, Guide for designing security controls that meet the SOX compliance
+- And last updated 2013: contain 17 controls and 87 points for internal controls.
+
+4. NIST SP 800-53
+
+This publication provides a catalog of security and privacy control for information system and ORG to protect the organizational operation, assets, individual and Nation from the diverse set of threat and risk including the human error, hostile attack, natural disasters...
+
+5. Architecture Frameworks
+
+- Sherwood applied business security architecture (SABSA): an enterprise security architecture framework that uses a matrix consisting of X and Y axes: 
+
+> X axis: Assets, motivation, process, people, location, time...
+>
+> y axis: security controls
+
+- The Open Group Architecture Framework (TOGAP): originated from the department of defense and uses the architecture development method (ADM) for enterprise architecture.
+
+- Zachman framework: use 6 x 6 matrix
+
+6. Other frameworks
+
+- ITIL (Information technology infrastructure library): focus on information technology service management.
+- Six sigma: is used to improve business processes using statistical data and analyses.
+
+
+### Compliance
+
+- GDPR (general data protection regulation): European Union privacy regulation related to consumer privacy.
+- GLBA (Gramn Leach Billey Act): related to finance service regulation
+- HIPAA (Health insurrance Portability and Accountability act): focused on health information and privacy of health records. This regulation applies to hospital, health insurance provider, and private physician.
+- HITECH (Health information technology for economic and clinical health act): related to health information
+- PCI-DSS (Payment card industry data security standard): credit card security standard.
+- SOX (Sarbanes oxley): finance record and accounting regulation.
+
+## Legal, privacy and ethical
+Consisting of: Types of law, intellectual property, important laws, privacy, ethics
+### Types of Law
+- Common laws: originating in England, use judges and juries.
+- Civil (tort): some party take action against another in order to revolves a dispute
+- Criminal: take enforcement action against violation, which may result in prison sentence of file
+- Administrative: created and administered by agencies.
+- Religious and customary: laws depend on religious
+- Computer crime laws: address malicious and criminal activity related to computer.
+
+### Intellectual property 
+- Copyright: Protect created for 75 years after author death. 
+- Patent: for 20 years
+- Trade secret: Protect the information and resource take advantage for competitive 
+- Trade mark: for 10 year, for logo, slogan, symbol.
+
+### Importan laws
+- computer fraud and abuse act (1986): any malicious action exceed $1000, unauthorized access to federal system, trafficking password, unauthorized modified the medical records are made crimes.
+- Electronic communication privacy act (1986): protect electronic communication from interception or monitoring
+- Computer security act (1987): Established that NIST create security planning, training, guidelines, standard for federal system.
+- Federal sentence guideline (1991): establishes the "Prudent man rule" for executive leadership to held personally responsible for the use of due care.
+- Communication assistance for law act (1994): allow wiretapping and eavesdropping for laws enforcement official
+- Economic espionage act (1996): protect against cooperate espionage by setting fines and imprisonment terms for theft of trade secret
+- Children online privacy act (1998): Limit collection of information of children younger than 13 years old.
+- Digital millennium copyright act (1998): protect against copyright infringement, in particularly aimed at digital privacy and access control circumvention.
+- Patriot act (2001): allow for subpoena of an individual's internet activity from the their internet provider.
+- Federal information security management act (2002): ask NiST reponsibles for developing the security program guideline for federal agencies and contractors.
+- California online privacy act (2003): require websites to provide the privacy policy.
+- Family Educational right and privacy act (2003): allow students and parents obtain and request correction of educational records. also prohibits schools from releasing pii information without consent.
+
+
+
+
 
 
 
