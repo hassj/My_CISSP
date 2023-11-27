@@ -179,7 +179,7 @@ Consisting of: Types of law, intellectual property, important laws, privacy, eth
 - Trade secret: Protect the information and resource take advantage for competitive 
 - Trade mark: for 10 year, for logo, slogan, symbol.
 
-### Importan laws
+### Important laws
 - computer fraud and abuse act (1986): any malicious action exceed $1000, unauthorized access to federal system, trafficking password, unauthorized modified the medical records are made crimes.
 - Electronic communication privacy act (1986): protect electronic communication from interception or monitoring
 - Computer security act (1987): Established that NIST create security planning, training, guidelines, standard for federal system.
@@ -193,8 +193,61 @@ Consisting of: Types of law, intellectual property, important laws, privacy, eth
 - California online privacy act (2003): require websites to provide the privacy policy.
 - Family Educational right and privacy act (2003): allow students and parents obtain and request correction of educational records. also prohibits schools from releasing pii information without consent.
 
+### Privacy
+- Definition: that allows individual and group information hidden from the unauthorized parties.
+- 4th amendment: the right of people to be secure their information such as: house, paper, and effects against unreasonable searches.
+- US Privacy Act: 1974 act that allow govern how federal agencies can collect, use, distribute and maintain information about individual.
 
+### Getting Personal 
+1. PII - Personal identifiable information
 
+Consisting of: social security number, name, ip address, driver's license
+
+2. PHI - protected heath information
+
+Consisting of: medical records, electronic health record, and insurance plan receives by a health provider....
+
+> Rules concerning HIPAA and the handling of PHI
+>
+> 1. Privacy rule
+> - establish the national standards to protect PHI
+> - Limit the uses and disclosure of PHI without the patient authorization
+> - Establish the client rights to receives the health record and any correct right.
+>
+> 2. Security rule
+> - Establish the national standards to protect electronic PHI
+> - Establish the administrative physical and technical safeguards for electronic PHI.
+
+## Ethics
+1. (ISC)2 Code of Ethics Cannons
+
+- Protect
+
+Protect the society, common good, publication trust and confidence and the infrastructure
+
+- Act
+
+Act honorably, honestly, justly, responsibility, and legally
+
+- Provide
+
+Provide diligent and competent to principle
+
+- Advance
+
+Advance and protect the profession
+
+2. 10 commandments of Computers ethics
+- thou salt not use a computer to harm other people
+- thou salt not interfere with other people's computer work
+- thou salt not use computer to bear false witness
+- thou salt not use a computer to steal 
+- thou salt not snoop a round in other computer's file
+- thou salt not copy or use proprietary software without paid (without permission)
+- thou salt not use other's computer resources without authorization or proper compensation
+- thou salt not use appropriate other's intellectual ouput   
+- thou salt think about the social consequence of software you're writing or system you are designing
+- thou salt use a computer in ways that ensure consideration and respect for humans.
 
 
 
