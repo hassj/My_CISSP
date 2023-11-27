@@ -1,8 +1,12 @@
 # Domain 1: Security and Risk Management
 I. [CIA Triad - Confidentiality, Integrity, Availability](#i-confidentiality-integrity-and-availability)
+
 II. [Governance, Risk, Compliance](#ii-governance-and-compliance)
+
 III. [Legal, Privacy and Ethics](#iii-legal-privacy-and-ethical)
+
 IV. [Security Policies, procedure, standard, and guidelines](#iv-security-policies-procedure-standard-and-guidelines)
+
 - Business Continuity
 - Risk management concepts
 - Risk frameworks
