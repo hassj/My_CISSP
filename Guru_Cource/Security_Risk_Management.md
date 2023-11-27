@@ -1,5 +1,5 @@
 # Domain 1: Security and Risk Management
-I. [CIA Triad - Confidentiality, Integrity, Availability](## I. Confidentiality, Integrity and Availability)
+I. [CIA Triad - Confidentiality, Integrity, Availability](##I. Confidentiality, Integrity and Availability)
 - Governance, Risk, Compliance
 - Legal, Privacy and Ethics
 - Security Policies, procedure, standard, and guidelines
