@@ -1,5 +1,5 @@
 # Domain 1: Security and Risk Management
-- CIA Triad - Confidentiality, Integrity, Availability
+I. [CIA Triad - Confidentiality, Integrity, Availability]
 - Governance, Risk, Compliance
 - Legal, Privacy and Ethics
 - Security Policies, procedure, standard, and guidelines
@@ -8,7 +8,7 @@
 - Risk frameworks
 - Risk training
 
-## Confidentiality, Integrity and Availability
+## I. CIA Triad - Confidentiality, Integrity, Availability
 CIA Triad, IAAA, Non-Repudiation
 ### CIA Triad
 - Confidentiality: keeping information or communication private
@@ -47,7 +47,7 @@ that is the process of holding people responsible for their action
 
 Using mechanism digital signature Prevent individual from disputing their action.
 
-## Governance and Compliance
+## II. Governance and Compliance
 Aligning security function, Plan types, Organization process, Due care and due  diligence, Roles and Responsibilities, Frameworks, Compliance
 ### Different between Governance and compliance
 - Governance deal with developing an approach or method for implementing the security in your ORG through policies, procedure.
@@ -163,7 +163,7 @@ This publication provides a catalog of security and privacy control for informat
 - PCI-DSS (Payment card industry data security standard): credit card security standard.
 - SOX (Sarbanes oxley): finance record and accounting regulation.
 
-## Legal, privacy and ethical
+## III. Legal, privacy and ethical
 Consisting of: Types of law, intellectual property, important laws, privacy, ethics
 ### Types of Law
 - Common laws: originating in England, use judges and juries.
@@ -218,7 +218,7 @@ Consisting of: medical records, electronic health record, and insurance plan rec
 > - Establish the national standards to protect electronic PHI
 > - Establish the administrative physical and technical safeguards for electronic PHI.
 
-## Ethics
+### Ethics
 1. (ISC)2 Code of Ethics Cannons
 
 - Protect
@@ -249,7 +249,14 @@ Advance and protect the profession
 - thou salt think about the social consequence of software you're writing or system you are designing
 - thou salt use a computer in ways that ensure consideration and respect for humans.
 
+3. RFC 1087: ethics and internet  
 
+list of computer ethics concerning the internet, which prohibits the following:
+- Seeks to gain unauthorized access to the resources of the internet
+- disrupt the intended use of the internet
+- wastes resource (people, internet, computer)
+- destroy the integrity of computer base information
+- compromise the privacy of users   
 
 
 
