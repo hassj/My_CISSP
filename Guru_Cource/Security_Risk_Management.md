@@ -263,6 +263,24 @@ list of computer ethics concerning the internet, which prohibits the following:
 - compromise the privacy of users   
 
 ## IV. Security Policies, procedure, standard, and guidelines
+Policies, Standards, Procedures, Guidlines, Baselines
+### Polices
+- High level applied: applies to the ORG as whole 
+- General scope: broad and non-specific
+- Breaking down into 3 main types
+>1. Regulatory
+>
+> that is a security policy, that help ORG imply with legal or industry standard
+>
+> 2. Advisory 
+>
+> that is security policy that advises on desired behavior
+>
+> 3. Informative
+>
+> Provides research and relevant information 
+
+Reading: https://learn.acloud.guru/course/certified-information-systems-security-professional/learn/69b0e6d5-75dd-4ca6-9a4c-b11106f3a854/e12fa89a-2304-4e46-b971-2c77fd6b7849/watch
 
 
 
