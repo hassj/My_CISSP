@@ -1,8 +1,8 @@
 # Domain 1: Security and Risk Management
 I. [CIA Triad - Confidentiality, Integrity, Availability](#i-confidentiality-integrity-and-availability)
-- Governance, Risk, Compliance
-- Legal, Privacy and Ethics
-- Security Policies, procedure, standard, and guidelines
+II. [Governance, Risk, Compliance](#ii-governance-and-compliance)
+III. [Legal, Privacy and Ethics](#iii-legal-privacy-and-ethical)
+IV. [Security Policies, procedure, standard, and guidelines](#iv-security-policies-procedure-standard-and-guidelines)
 - Business Continuity
 - Risk management concepts
 - Risk frameworks
@@ -258,6 +258,7 @@ list of computer ethics concerning the internet, which prohibits the following:
 - destroy the integrity of computer base information
 - compromise the privacy of users   
 
+## IV. Security Policies, procedure, standard, and guidelines
 
 
 
