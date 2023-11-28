@@ -308,6 +308,15 @@ Business continuity definition, BCP-planning, 5 phases of BCP: scoping and plann
 ### Business continuity 
 Defined in NIST SP 800-34: The documentation of predetermined set of instructions or procedures that describe how an ORG's mission/businesss process will be sustained during and after an significant disruption.
 ### BCP
+Scope and planning, business impact assessment, BCP, Approval and implementation.
+#### Scope and planning
+Needed resources, team selection, legal consideration, and analysis the overall effort of returning business to operational state.
+#### Business impact assessment
+that is extent of damages, disruption that effect to the business operation 
+#### Continuity planning
+That is development of strategy and determining provision planning for handover the operational state.
+#### Approval and implementation
+Leadership endorsement and approval needed for the implementation of the BCP
 
 
 
