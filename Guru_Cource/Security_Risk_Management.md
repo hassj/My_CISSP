@@ -304,7 +304,11 @@ Policies, Standards, Procedures, Guidelines, Baselines
   > All equipments or system must meet the baselines instead of remove from the production.
 
 ## V. Business Continuity
-Business continuity definition, BCP-planning, 5 phases of BCP: scoping and planning, impact assessment, continuity planning, Approval adn implementation, Documentation.
+Business continuity definition, BCP-planning, 5 phases of BCP: scoping and planning, impact assessment, continuity planning, Approval and implementation, Documentation.
+### Business continuity 
+Defined in NIST SP 800-34: The documentation of predetermined set of instructions or procedures that describe how an ORG's mission/businesss process will be sustained during and after an significant disruption.
+### BCP
+
 
 
 
