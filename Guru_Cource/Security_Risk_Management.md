@@ -308,15 +308,59 @@ Business continuity definition, BCP-planning, 5 phases of BCP: scoping and plann
 ### Business continuity 
 Defined in NIST SP 800-34: The documentation of predetermined set of instructions or procedures that describe how an ORG's mission/businesss process will be sustained during and after an significant disruption.
 ### BCP
-Scope and planning, business impact assessment, BCP, Approval and implementation.
+Scope and planning, business impact assessment, Contiuity planning, Approval and implementation.
 #### Scope and planning
 Needed resources, team selection, legal consideration, and analysis the overall effort of returning business to operational state.
-#### Business impact assessment
-that is extent of damages, disruption that effect to the business operation 
+- Analysis of business: must identify critical services, people that necessary to the operation of business
+- Team: select team member diverse but focus on core services. BCP team selected as bellow
+> Management
+>
+> prioritizes the tasks, assign people to tasks, allocate resources.
+>
+> Legal
+>
+> considers regulatory, considers contractual obligation 
+>
+> IT specialist
+>
+> the person who will handles tasks that manager assign above and provide technical expertise
+>
+> Core Departments
+>
+> Provide feedback to BCP; and know how the department work; and what department need; as well as understanding how BCP task affect to their department 
+- Resources: determine which resources need during development, testing, and implementation phase
+#### Business impact assessment (BIA)
+Consisting of some actions of analysis resources or damages, disruption that effect to the business operation. and it breakdown 4 step:
+> Data gathering: collection information form individual by interview, questionnaire or any methods
+> 
+> Identify: identify critical business operation, resources and threats, vulnerabilities.
+>
+> Risk analysis: we narrow down form above step, to perform any action related to qualitative, quantitive risk analysis of impact to business operation.
+>
+> Documentation: any recommendation and data gather then making the report to BCP team, and senior management.
+
+- Maximum tolerable downtime (MTD): maximum of time that business operation or functional can be inoperable or nonfunctional before reach un-recoverable state of ORG
+- type of levels: critical (less than 24 hrs), urgent (24 hrs), important (72 hrs), normal (1 week), no-essential (1 month)
+
 #### Continuity planning
 That is development of strategy and determining provision planning for handover the operational state.
+
+- Strategy: BCP team develops a strategy for implementing BCP task
+- Provision: the infrastructure, resource, site all things need in place to perform BCP
+
 #### Approval and implementation
 Leadership endorsement and approval needed for the implementation of the BCP
+- Approval: the highest level of leadership must provide the approval of BCP
+- Implement: developing the implementation schedule, ongoing maintenance and training BCP
+
+## Document
+consisting of six goals:
+- Document: the goals and measurement of success for the BCP
+- Statements: includes some statement of importance, priorities, responsibilities, and urgency
+- Risk: include the quantitative, qualitative of risk to the business and when it be mitigated
+- Vital records: some important information related to business operation
+- Emergency: that is responsed guideline include who to contact, and when
+- Maintenance and testing: BCP should be updated periodically, including document testing procedures
 
 
 
