@@ -7,7 +7,7 @@ III. [Legal, Privacy and Ethics](#iii-legal-privacy-and-ethical)
 
 IV. [Security Policies, procedure, standard, and guidelines](#iv-security-policies-procedure-standard-and-guidelines)
 
-- Business Continuity
+V. [Business Continuity](#v-business-continuity)
 - Risk management concepts
 - Risk frameworks
 - Risk training
@@ -263,14 +263,14 @@ list of computer ethics concerning the internet, which prohibits the following:
 - compromise the privacy of users   
 
 ## IV. Security Policies, procedure, standard, and guidelines
-Policies, Standards, Procedures, Guidlines, Baselines
+Policies, Standards, Procedures, Guidelines, Baselines
 ### Polices
 - High level applied: applies to the ORG as whole 
-- General scope: broad and non-specific
+- General scope: general, broad and non-specific
 - Breaking down into 3 main types
 >1. Regulatory
 >
-> that is a security policy, that help ORG imply with legal or industry standard
+> that is a security policy, that help ORG comply with legal or industry standard
 >
 > 2. Advisory 
 >
@@ -278,9 +278,35 @@ Policies, Standards, Procedures, Guidlines, Baselines
 >
 > 3. Informative
 >
-> Provides research and relevant information 
+> Provides research and relevant information that support overall security policy
+### Standards
+- Scope/Mid-level: Applies to controls, technologies and assets
+- Uniform: same implementation of controls, technologies, and assets
+- tactical: Instructions for achieving the goals set by policies.
+### Procedures
+- Low-level: applies to specific tasks performed by worker
+- Updated: frequently, revised and updated very often whenever new hardware or new technologies is acquired
+- Detailed: Step-by-step instructions on implementations of controls
+### Different between Guidelines and baselines
+- Guidelines
+  > Operational guidelines
+  >
+  > Describe how to deploy the system
+  >
+  > Optional, not recommended 
 
-Reading: https://learn.acloud.guru/course/certified-information-systems-security-professional/learn/69b0e6d5-75dd-4ca6-9a4c-b11106f3a854/e12fa89a-2304-4e46-b971-2c77fd6b7849/watch
+- Baselines
+  > that is minimum level
+  > 
+  > All hardware, software and technologies must must meet the baselines
+  >
+  > May be a standard set forth by an external entity like NIST
+  > All equipments or system must meet the baselines instead of remove from the production.
+
+## V. Business Continuity
+Business continuity definition, BCP-planning, 5 phases of BCP: scoping and planning, impact assessment, continuity planning, Approval adn implementation, Documentation.
+
+
 
 
 
