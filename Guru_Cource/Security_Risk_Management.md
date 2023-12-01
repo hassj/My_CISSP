@@ -8,9 +8,9 @@ III. [Legal, Privacy and Ethics](#iii-legal-privacy-and-ethical)
 IV. [Security Policies, procedure, standard, and guidelines](#iv-security-policies-procedure-standard-and-guidelines)
 
 V. [Business Continuity](#v-business-continuity)
-- Risk management concepts
-- Risk frameworks
-- Risk training
+VI. [Risk management concepts](#vi-risk-management-concepts)
+VII. [Risk frameworks](#vii-risk-frameworks)
+VIII. [Risk training](#viii-risk-training)
 
 ## I. Confidentiality, Integrity and Availability
 CIA Triad, IAAA, Non-Repudiation
@@ -306,7 +306,7 @@ Policies, Standards, Procedures, Guidelines, Baselines
 ## V. Business Continuity
 Business continuity definition, BCP-planning, 5 phases of BCP: scoping and planning, impact assessment, continuity planning, Approval and implementation, Documentation.
 ### Business continuity 
-Defined in NIST SP 800-34: The documentation of predetermined set of instructions or procedures that describe how an ORG's mission/businesss process will be sustained during and after an significant disruption.
+Defined in NIST SP 800-34: The documentation of predetermined set of instructions or procedures that describe how an ORG's mission/business process will be sustained during and after an significant disruption.
 ### BCP
 Scope and planning, business impact assessment, Contiuity planning, Approval and implementation.
 #### Scope and planning
@@ -353,15 +353,122 @@ Leadership endorsement and approval needed for the implementation of the BCP
 - Approval: the highest level of leadership must provide the approval of BCP
 - Implement: developing the implementation schedule, ongoing maintenance and training BCP
 
-## Document
-consisting of six goals:
-- Document: the goals and measurement of success for the BCP
+### Document
+Consisting of six goals:
+- Goals: the goals and measurement of success for the BCP
 - Statements: includes some statement of importance, priorities, responsibilities, and urgency
 - Risk: include the quantitative, qualitative of risk to the business and when it be mitigated
 - Vital records: some important information related to business operation
-- Emergency: that is responsed guideline include who to contact, and when
+- Emergency: that is emergency response guideline include who to contact, and when
 - Maintenance and testing: BCP should be updated periodically, including document testing procedures
 
+## VI. Risk management concepts
+some of terminology, threats and attacks, vulnerability and exposure, security countermeasures, qualitative analysis, quantitative analysis, different ways dealing with risk.
+### Risk terminology
+- Threat: somethings potential or undesirable incident that adversely affected to system or assets
+- Vulnerability: the weakness in a system or assets
+- Exploitation: the action or process that leverage weakness of system to exploit
+- Risk: similar with threat
+
+### Threats
+having 4 types threat
+- Accidental: damaged caused by the unintentional action and typically the result of errors.
+- Cascading: Additional and unintentional damaged cause by threat.
+- Actors: terrorist, nation-state, insider threat, script kiddies.
+- Natural disasters: tornadoes, avalanches, hurricanes, floods...
+### Attacks
+having 2 types attacks:
+- Social engineering: for example "email fishing", it consisting of manipulation, deception, intimidation, and the target is human.
+- Technical attack: using technical way or method to system target.
+### Vulnerability and exposure
+it involves to:
+- NVD: national vulnerability database is repository of vuln, managed by NIST
+- CVE: common vulnerability and exposures, that defines the disclosure security vuln, managed by MITRE
+### Security countermeasures
+Any physical, logical, technical, administrative controls used to reduce or eliminate the risk of threat being realized.
+
+### Understanding the difference between Qualitative and quantitative risk analysis
+- Qualitative focuses on the quality and intangible effects associated with risk
+- Quantitative focuses on the measurable formulas and financial information.
+#### Qualitative
+is necessary way to measure that confidence level
+- 
+#### Quantitative
+- Asset value (Av): the monetary of given asset 
+- Exposure factor (EF): the potential amount of loss (represent as percentage) an asset will experience from a realized threat
+- Single Loss Expectancy (SLE): the monetary amount associate with a single, realized threat.
+- Annual Rate of Occurrence (ARO): the chance of realize threat occurring within a year.
+- Annual Loss Expectancy ( ALE): expected monetary loss for the year
+- Annual cost of safeguard (ACS): the cost of implementing security safeguard or control.
+
+> formulas
+>
+> AS = $ (Represent by dollar amount)
+>
+> EF = %  (Represented as a percentage)
+>
+> SLE = AS *EF
+>
+> ARO = #/year (Number of occurrences per year)
+>
+> ALE = SLE * ARO = AV * EF * ARO
+>
+> ACS = $/year (dollar amount spent in a year)
+>
+> Risk = Threat * vulnerability
+>
+> Residual risk = Risk - control gap 
+>
+> Value of countermeasure = Pre countermeasure ALE - Post countermeasure ALE
+>
+> Control cost < Asset value
+
+### Deal with risk
+we have 6 types of risks: 
+- Mitigation risk: the process of lowering or mitigating the level affectiveness of risk
+- Avoidance risk: also process or action to void engaging in activity maybe present the risk
+- Transfer risk: the action transferring the risk to another entity such as an insurance provider
+- Rejection risk: rejecting existing or particular risk, this type related to legal liable
+- Acceptance risk: Accepting the risk, particularly when the cost less than the cost of applying security safeguard 
+- Residual risk: the risk left over after security countermeasures have been applied
+ 
+## VII. Risk frameworks
+Nist Risk management framework SP 800-37; some of frameworks: OCTAVE, FAIR, TARA; Threat Modeling; Threat Models;
+### NIST RMF - 800-37
+SP 800-37 (Risk Management Framework) includes activities to prepare the ORG to execute framework at appropriate risk management levels. The RMF also promotes near real-time risk management and ongoing system information and common control authorization through implementing the monitoring processes; provide senior leader and executive with necessary information to make efficient, cost effective, risk management decision about the systems, supporting their mission and business functions; and incorporate with security and privacy system into dev life cycle.
+#### Prepare
+Establish context and priorities for the risk, security and privacy management system 
+#### Category
+label system that process, store, transmit information based on loss impact of asset.
+#### Select
+Choose initial security control or privacy control to reduce risk to an acceptable level.
+#### Implement
+Implementing security control after select as previous step.
+#### Assess
+Check that security control are implemented correctly and effectively.
+#### Authorize
+Have senior management official determine if security, risk level and privacy meet an acceptable level.
+#### Monitoring
+Watch security controls and assets.
+
+> Assessing: to see assessing control effectiveness 
+> 
+> Performing: risk and impact assessments
+>
+> Documenting changes: documenting the system changes as different configuration changes can have impact to system 
+>
+> Reporting: Report on security and privacy posture of systems.
+
+### OCTAVE
+
+### FAIR
+### TARA
+
+
+## VIII. Risk training
+
+
+Reading: https://learn.acloud.guru/course/certified-information-systems-security-professional/learn/69b0e6d5-75dd-4ca6-9a4c-b11106f3a854/694a0d07-d21d-4b26-83ea-0045461f471d/watch
 
 
 
